@@ -6,7 +6,7 @@
   },
   {
     "event": "prediction",
-    "request_id": "0bc3bbd5-b804-4b0d-b7f1-a90514b62de0",
+    "request_id": "33a0fadb-9d42-4ed6-9940-7b0f068ac2d2",
     "model_version": "distilbert-clinical-v1-473c169b4cb6",
     "guideline_version": "9cd534ffb9eb",
     "entity_counts": {
@@ -19,11 +19,11 @@
     "assessment_status": "evaluated",
     "compliant": true,
     "warning_count": 2,
-    "latency_ms": 71.508
+    "latency_ms": 71.776
   },
   {
     "event": "prediction",
-    "request_id": "e5f65f30-c1fe-4007-a7eb-45b8e61a2a1e",
+    "request_id": "548f8a87-fd55-4288-8d35-01e4210795fc",
     "model_version": "distilbert-clinical-v1-473c169b4cb6",
     "guideline_version": "9cd534ffb9eb",
     "entity_counts": {
@@ -36,11 +36,11 @@
     "assessment_status": "evaluated",
     "compliant": false,
     "warning_count": 4,
-    "latency_ms": 73.399
+    "latency_ms": 75.39
   },
   {
     "event": "prediction",
-    "request_id": "deed7ab6-ab00-45e5-914e-888f47ff8454",
+    "request_id": "a83b38c9-d8aa-4a8e-9ffd-4508d804a051",
     "model_version": "distilbert-clinical-v1-473c169b4cb6",
     "guideline_version": "9cd534ffb9eb",
     "entity_counts": {
@@ -53,6 +53,6 @@
     "assessment_status": "evaluated",
     "compliant": true,
     "warning_count": 2,
-    "latency_ms": 79.941
+    "latency_ms": 72.534
   }
 ]

@@ -3,8 +3,8 @@
   "reference_source": "Automatic weak labels, not independent clinician annotations",
   "limitations": "Grouped held-out notes remain templated; metrics measure agreement with weak labels, not clinical validity. Validation selects checkpoint; test is not used in fitting.",
   "latency_ms": {
-    "median": 18.92012399912346,
-    "max": 23.93989299889654,
+    "median": 19.417165996856056,
+    "max": 27.654224992147647,
     "samples": 50,
     "includes_explanations": false
   },
